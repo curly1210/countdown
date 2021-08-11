@@ -8,7 +8,7 @@
 
 body {
     position: relative;
-    background-image: url("./snow.jpg");
+    background-image: url('https://images.pexels.com/photos/416779/pexels-photo-416779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 940w, https://images.pexels.com/photos/416779/pexels-photo-416779.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260 1260w, https://images.pexels.com/photos/416779/pexels-photo-416779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 1880w, https://images.pexels.com/photos/416779/pexels-photo-416779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260 2520w') ;
     background-size:cover;
     font-family: 'Poppins', sans-serif;
     display: flex;
